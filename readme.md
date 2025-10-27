@@ -10,4 +10,8 @@ what you have to do -
 
 **If you find it useful give me a star**
 
+<<<<<<< HEAD
 ***Thank You***
+=======
+***Thank You***
+>>>>>>> a756bea51ed9acbbbd8aa0d436599aaa614b170c
